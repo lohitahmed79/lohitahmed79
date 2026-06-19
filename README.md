@@ -105,12 +105,6 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lohitahmed79&style=for-the-badge&color=brightgreen" />
-</p>
-
 ## 📫 Connect With Me
 
 <p align="center">
