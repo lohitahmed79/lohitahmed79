@@ -1,19 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=L%20O%20H%20I%20T&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=WordPress%20Web%20Designer%20|%20Web%20Developer%20|%20Graphic%20Designer%20|%20Digital%20Marketer%20|%20SEO%20Expert&descAlignY=60&color=gradient&customColorList=6,11,12,20,24,30" />
+  <img src="https://raw.githubusercontent.com/lohitahmed79/lohitahmed79/main/lohit (2).jpg" width="100%">
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile;WordPress+Web+Designer;Web+Developer;Graphic+Designer;Digital+Marketer;SEO+Expert" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lohitahmed79&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lohitahmed79&theme=algolia&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
-
 ---
 
 ## 🚀 About Me
