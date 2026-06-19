@@ -126,4 +126,6 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/lohitahmed79/lohitahmed79/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lohitahmed79/lohitahmed79/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
