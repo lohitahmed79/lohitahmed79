@@ -123,3 +123,7 @@
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
 </p>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/lohitahmed79/lohitahmed79/blob/output/github-contribution-grid-snake.svg)
