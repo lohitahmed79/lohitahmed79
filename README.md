@@ -126,4 +126,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/lohitahmed79/lohitahmed79/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/lohitahmed79/lohitahmed79/output/github-contribution-grid-snake.svg)
