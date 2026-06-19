@@ -1,14 +1,18 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Lohit%20Ahmed&fontSize=55&fontAlignY=40&desc=Web%20Developer%20|%20Shopify%20Developer%20|%20Digital%20Marketer&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=L%20O%20H%20I%20T&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20Web%20Designer%20%7C%20Web%20Developer%20%7C%20Graphic%20Designer%20%7C%20Digital%20Marketer%20%7C%20SEO%20Expert&descAlignY=60&descSize=18"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile;WordPress+Web+Designer;Web+Developer;Graphic+Designer;Digital+Marketer;SEO+Expert" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lohitahmed79&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer;Shopify+Developer;WordPress+Website+Designer;Digital+Marketer;SEO+Enthusiast;Currently+Learning+Python" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lohitahmed79&theme=algolia&row=1&column=7&margin-w=15&margin-h=15" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Lohit Ahmed</h1>
-
-<h3 align="center">Web Developer | Shopify Developer | Digital Marketer</h3>
 
 ---
 
